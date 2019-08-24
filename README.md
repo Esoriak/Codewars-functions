@@ -7,7 +7,7 @@ L'apprentissage par l'erreur, le test. Encore l'erreur ? Encore des tests. Et fi
 Repo d'entrainement pour visualiser des extraits de code, fonctions javascript, logique d'algorithmie, requêtes SQL. 
 
 
-### In the project directory, you can run:
+###In the project directory, you can run:
 
 npm start
 
